@@ -1,0 +1,3 @@
+# Indicators in C#
+
+This repo is the public repo for my Indicators blog post. To run this just clone this repo and run `dotnet run`. You can change the symbol you are looking at by editing the Program.cs file. You can also get more data from [Yahoo Finance](https://help.yahoo.com/kb/download-historical-data-yahoo-finance-sln2311.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABJ2C9mz-vMAEhjyvQOVenW_5SlmWHGAT1Jy-pOdyArjlkRVbHsua72K09hQ2mhY8IOccV8mAhnZdQjCf3Fp4PzWb4dbw56Q_ZprrdVM3NNPSh7NF9DHjhXwWRq_o6On4xJiiTp3vbVVlm07V8chJPNU3dKk0s9I2nVPudsdT0wW) or other sources.
